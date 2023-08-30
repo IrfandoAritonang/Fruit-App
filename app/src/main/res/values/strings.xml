@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Fruit App</string>
+    <string name="title">Nama Buah</string>
+    <string name="description">keterangan buah</string>
+    <string name="about">About Me</string>
+    <string name="my_name">Irfando Aritonang</string>
+    <string name="email">irfando430@gmail.com</string>
+    <string name="irfando">Irfando Aritonang</string>
+
+    <string-array name="data_name">
+        <item>Kiwi</item>
+        <item>Orange</item>
+        <item>Mango</item>
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Strawberry</item>
+        <item>Durian</item>
+        <item>Soursop</item>
+        <item>Lemon</item>
+        <item>Dragon Fruit</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Kiwi is a small, green fruit with a fuzzy skin. It has a sweet and tart flavor and is a good source of vitamins C and K.</item>
+        <item>Orange is a citrus fruit with a bright orange color. It has a sweet and sour flavor and is a good source of vitamin C.</item>
+        <item>Mango is a tropical fruit with a yellow or orange skin. It has a sweet and creamy flavor and is a good source of vitamins A and C.</item>
+        <item>Apple is a round fruit with a red, green, or yellow skin. It has a sweet or tart flavor and is a good source of fiber.</item>
+        <item>Pear is a round fruit with a brown or green skin. It has a sweet or tart flavor and is a good source of fiber.</item>
+        <item>Strawberry is a small, red fruit with a sweet and tart flavor. It is a good source of vitamin C and fiber.</item>
+        <item>Durian is a large, spiky fruit with a strong, sweet and savory flavor. It is native to Southeast Asia and is a popular ingredient in Thai cuisine.</item>
+        <item>Soursop is a large, green fruit with a creamy, sour and sweet flavor. It is native to Central and South America and is a popular ingredient in Caribbean cuisine.</item>
+        <item>Lemon is a small, yellow fruit with a sour flavor. It is a good source of vitamin C and is used in a variety of dishes and drinks.</item>
+        <item>Dragon fruit, also known as pitaya, is a tropical fruit native to Mexico, Central America, and South America. It is a member of the cactus family and has a colorful, spiky exterior.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/kiwi</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/mango</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/pear</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/durian</item>
+        <item>@drawable/sorsoup</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/dragon</item>
+    </integer-array>
+</resources>
