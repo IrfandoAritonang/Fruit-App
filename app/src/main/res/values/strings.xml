@@ -6,6 +6,11 @@
     <string name="my_name">Irfando Aritonang</string>
     <string name="email">irfando430@gmail.com</string>
     <string name="irfando">Irfando Aritonang</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="description_nutrition">description nutrition</string>
+    <string name="fun_fact">Fun Fact</string>
+    <string name="description_fact">description fact</string>
+    <string name="share">Share to Friends</string>
 
     <string-array name="data_name">
         <item>Kiwi</item>
@@ -34,6 +39,31 @@
         <item>Dragon fruit, also known as pitaya, is a tropical fruit native to Mexico, Central America, and South America. It is a member of the cactus family and has a colorful, spiky exterior.</item>
     </string-array>
 
+    <string-array name="data_nutrition">
+        <item>Kiwi is rich in vitamin C, vitamin K, and dietary fiber. It also contains antioxidants and a good amount of potassium.</item>
+        <item>Oranges are an excellent source of vitamin C and provide a good amount of fiber. They also contain antioxidants like flavonoids.</item>
+        <item>Mangoes are high in vitamin C, vitamin A, and dietary fiber. They also contain compounds like beta-carotene and antioxidants.</item>
+        <item>Apples are a good source of dietary fiber and vitamin C. They also contain antioxidants and natural sugars.</item>
+        <item>Pears offer dietary fiber, vitamin C, and potassium. They are low in calories and provide a good amount of hydration.</item>
+        <item>Strawberries are rich in vitamin C, manganese, and antioxidants. They are also low in calories and high in water content.</item>
+        <item>Durian is a good source of energy due to its carbohydrate content. It also provides dietary fiber, vitamin C, and potassium.</item>
+        <item>Soursop is rich in vitamin C, fiber, and antioxidants. It also contains compounds with potential health benefits.</item>
+        <item>Lemons are a great source of vitamin C and antioxidants. They also contain citric acid and have alkalizing effects on the body.</item>
+        <item>Dragon fruit is rich in vitamin C, fiber, and antioxidants. It\'s also low in calories and provides several types of beneficial plant compounds.</item>
+    </string-array>
+
+    <string-array name="data_fact">
+        <item>Kiwi originated in China and was originally known as the Chinese gooseberry</item>
+        <item>Oranges belong to the citrus family and are known for their tangy and sweet flavor.</item>
+        <item>Mangoes are often referred to as the "king of fruits" and come in various varieties with unique flavors.</item>
+        <item>There are thousands of apple varieties worldwide, each with its own color, flavor, and texture.</item>
+        <item>Pears come in different shapes and colors, and they belong to the same family as apples.</item>
+        <item>Despite their name, strawberries are not true berries but rather aggregate fruits.</item>
+        <item>Durian is known for its strong aroma, which people either love or find off-putting. It\'s often referred to as the "king of fruits."</item>
+        <item>Soursop has a spiky green outer appearance and a soft, white, and fibrous inner flesh. It\'s known for its unique flavor.</item>
+        <item>Lemons are used not only for culinary purposes but also for their fragrance and cleaning properties.</item>
+        <item>Dragon fruit, also known as pitaya, comes in different varieties with distinct outer skin colors and inner flesh colors, such as white or pink.</item>
+    </string-array>
 
     <integer-array name="data_photo">
         <item>@drawable/kiwi</item>

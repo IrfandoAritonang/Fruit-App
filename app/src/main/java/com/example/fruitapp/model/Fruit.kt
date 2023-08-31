@@ -8,4 +8,6 @@ data class Fruit(
     val title: String,
     val description: String,
     val photo: Int,
+    val nutrition: String,
+    val fact: String
 ):Parcelable

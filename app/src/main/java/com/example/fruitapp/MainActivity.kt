@@ -30,11 +30,11 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
-//        val dataIngredient = resources.getStringArray(R.array.data_ingredient)
-//        val dataProcedure = resources.getStringArray(R.array.data_procedure)
+        val dataNutrition = resources.getStringArray(R.array.data_nutrition)
+        val dataFact = resources.getStringArray(R.array.data_fact)
         val listFruit = ArrayList<Fruit>()
         for (i in dataName.indices) {
-            val fruit = Fruit(dataName[i], dataDescription[i], dataPhoto.getResourceId(i,   -1))
+            val fruit = Fruit(dataName[i], dataDescription[i], dataPhoto.getResourceId(i,   -1), dataNutrition[i], dataFact[i])
             listFruit.add(fruit)
         }
         return listFruit
